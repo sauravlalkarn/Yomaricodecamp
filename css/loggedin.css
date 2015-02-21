@@ -1,0 +1,20 @@
+.group-category{
+	display: table;
+}
+
+.category{
+	width: auto;
+	height: auto;
+	display: table;
+	padding: 30px;
+}
+.category-group{
+	float: right;
+	display: block;
+	width: 250px;
+	height: auto;
+	color: #09C;
+	margin:0 50px 0 0;
+  	padding:20px;
+  	background-color: #eee;
+}
